@@ -1,0 +1,33 @@
+.checkbox{
+    display:inline
+}
+
+.form{
+    margin: 88px 0px;
+}
+
+input{    
+    margin: 7px 0 0 19px;
+    border-radius: 50px;
+}
+.checkbox lable{
+    margin: 0 0 0 20px;
+}
+button{
+    border-radius: 23px;
+    width: auto;
+    height: auto;
+    margin: auto;
+
+}
+  
+td{
+    background-color: white;
+    color: black;
+    border: 2px solid;
+    height: 50px;
+}
+.table{
+    width: 70%;
+    margin: 90px auto;
+}
